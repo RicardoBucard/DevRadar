@@ -15,6 +15,6 @@ body{
     -webkit-font-smoothing: antialiased;
 }
 
-body, input, butto{
+body, input, button{
     font-family: sans-serif;
 }
